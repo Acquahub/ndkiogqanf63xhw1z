@@ -1,0 +1,161 @@
+.Screen1{
+    display: flex; 
+    width: 100%; 
+    height: 100%; 
+    box-sizing: border-box;  
+    background-color: #FFFFFF;
+    flex-direction: column; 
+    justify-content: flex-start;
+align-items: flex-start;  
+}
+.layer-1-928f31398eea4d1c8dd38cd41a838f2f{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+padding-top: 66px;
+padding-left: 55px;
+padding-right: 55px;
+box-sizing: border-box;background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-image: url('/_next/image?url=%2Fassets%2FDSC08088 - Framed.png&w=3840&q=75');
+flex-grow: 1;height: unset;
+align-self: stretch;
+    {visibility}
+}
+.layer-3-ac967d9c3a41466b93633d7a5fb00bf2{
+    display: flex;
+    contain: paint;
+    flex-direction: row;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
+
+height: 100px;min-height: 100px;
+align-self: stretch;
+    {visibility}
+}
+.layer-4-d337f99b09344ab39b284503257a3a2a{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-image: url('/_next/image?url=%2Fassets%2Fvai-logo.png&w=3840&q=75');
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
+    {visibility}
+}
+.layer-5-b8aefcef52874e5c90410d3ad92bcc75{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
+
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
+    {visibility}
+}
+.layer-6-683796075dfb4f40a72580b2b8d80593{
+    display: flex;
+    contain: paint;
+    flex-direction: row;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
+
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
+    {visibility}
+}
+.layer-7-cd4dbca6780f4674aa28732cde4e42a7{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
+
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
+    {visibility}
+}
+.text-1-49e38cc1978143538c10fe268d9817a0{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+
+
+height: fit-content;
+width: fit-content;
+    background: var(--whiteColor); 
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-size: var(--fontSize); {visibility}
+}
+.layer-9-38bf816f0a4f45f0b91725efee47aaec{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
+
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
+    {visibility}
+}
+.text-2-71b7361821134cf9963c55466e627115{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+
+
+height: fit-content;
+width: fit-content;
+    background: var(--whiteColor); 
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-size: var(--fontSize); {visibility}
+}
+.layer-8-046187d99b3940a4961f6dc89edc7b1f{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
+
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
+    {visibility}
+}
+.text-3-6cf50327f2e544c9a9b4ef5007de579a{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+
+
+height: fit-content;
+width: fit-content;
+    background: var(--whiteColor); 
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-size: var(--fontSize); {visibility}
+}
+.text-4-ac228ec3363d46109d1e9112d590f682{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18pt;
+
+color: #000000;
+
+height: fit-content;
+width: fit-content;
+    {visibility}
+}

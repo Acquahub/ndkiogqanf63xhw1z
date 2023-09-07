@@ -1,0 +1,24 @@
+.Screen2{
+    display: flex; 
+    width: 100%; 
+    height: 100%; 
+    box-sizing: border-box;  
+    background-color: #FFFFFF;
+    flex-direction: column; 
+    justify-content: flex-start;
+align-items: flex-start;  
+}
+.layer-2-02b4f03f225340669d64a81d0d9c1f1e{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-image: url('/_next/image?url=%2Fassets%2FDSC08088 - Framed.png&w=3840&q=75');
+flex-grow: 1;height: unset;
+align-self: stretch;
+    {visibility}
+}
