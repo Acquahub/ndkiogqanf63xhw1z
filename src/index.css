@@ -68,5 +68,34 @@ code {
     width: fit-content;
     font-size: 30px;
 }:root {
+	--whiteColor: #FFFFFF;
+	--blueColor: #2CA4FF;
+	--greyColor: #F2F2F2;
+	--lateralMarginSize: 5vw;
 
+}
+
+@media (max-width: 480px) {:root{
+	--whiteColor: #FFFFFF;
+	--blueColor: #2CA4FF;
+	--greyColor: #F2F2F2;
+	--lateralMarginSize: 5vw;
+
+}  
+}
+@media (min-width: 481px) {:root{
+	--whiteColor: #FFFFFF;
+	--blueColor: #2CA4FF;
+	--greyColor: #F2F2F2;
+	--lateralMarginSize: 5vw;
+
+}  
+}
+@media (max-aspect-ratio: 1/1) and (min-width: 481px) {:root{
+	--whiteColor: #FFFFFF;
+	--blueColor: #2CA4FF;
+	--greyColor: #F2F2F2;
+	--lateralMarginSize: 5vw;
+
+}  
 }
