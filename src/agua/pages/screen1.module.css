@@ -4,6 +4,7 @@ overflow-y: scroll;
 }
 .layer-1-45a10a88cf70400bb00beded167c5ccc{
     flex-direction: row;
+justify-content: center;
 
 background-color: #FFFFFF;
 height: 10vh;min-height: 10vh;
@@ -34,12 +35,16 @@ min-height: var(--logoSizeV);
 width: var(--logoSizeH); 
 max-width: var(--logoSizeH); 
 min-width: var(--logoSizeH); 
+
+--margin-right: var(--logomarginSize);
+margin-right: var(--margin-right);
 }
 .icon-1-46175942b5eb44b39cb2d3e09b003bae{
     
 
 
     color: var(--blueColor); 
+display: var(--headerVisibility2); 
 }
 .layer-18-972a83d2cc8e4c7f81baedf25452a512{
     
@@ -48,12 +53,16 @@ align-items: flex-end;
 
 align-self: stretch;height: unset;min-height: unset;
 flex-grow: 1;width: unset;min-width: unset;
-    
+    display: var(--headerVisibility1); 
+display: none;
 }
 .layer-20-1227f11f739c4bb287716960ff3b81ce{
     flex-direction: row;
 align-items: center;
 
+padding-left: 1px;
+padding-right: 1px;
+box-sizing: border-box;
 flex-grow: 1;height: unset;min-height: unset;
 width: fit-content;min-width:  unset;
     
@@ -105,7 +114,7 @@ font-size: var(--headerFontSize);
 }
 .layer-23-60d8bac0cce8474fa29bc96db38e55bd{
     
-border-radius: 1.6627634660421549vh;
+border-radius: 2.121619602569856vh;
 padding-bottom: 2px;
 padding-left: 10px;
 padding-right: 10px;
