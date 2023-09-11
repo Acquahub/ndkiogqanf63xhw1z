@@ -4,7 +4,6 @@ overflow-y: scroll;
 }
 .layer-1-45a10a88cf70400bb00beded167c5ccc{
     flex-direction: row;
-justify-content: center;
 
 background-color: #FFFFFF;
 height: 10vh;min-height: 10vh;
@@ -175,6 +174,8 @@ min-height: var(--Whatsapp);
 width: var(--Whatsapp); 
 max-width: var(--Whatsapp); 
 min-width: var(--Whatsapp); 
+display: var(--headerVisibility1); 
+display: none;
 }
 .layer-4-c05e64744106454fba158c969644f86b{
     
