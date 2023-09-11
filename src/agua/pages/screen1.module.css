@@ -28,9 +28,12 @@ background-repeat: no-repeat;
 background-size:cover;
 background-position: center;
 background-image: url('/assets/vai-logo.png');
-
-
-    
+    height: var(--logoSizeV); 
+max-height: var(--logoSizeV); 
+min-height: var(--logoSizeV); 
+width: var(--logoSizeH); 
+max-width: var(--logoSizeH); 
+min-width: var(--logoSizeH); 
 }
 .icon-1-46175942b5eb44b39cb2d3e09b003bae{
     
@@ -57,10 +60,11 @@ width: fit-content;min-width:  unset;
 }
 .layer-21-dba7087fdb9b4557840b4fbeadb332b8{
     flex-direction: row;
+align-items: center;
 
 height: fit-content;min-height:  unset;
 width: fit-content;min-width:  unset;
-    
+    margin-right: var(--headerTextmarginSize); 
 }
 .text-1-3285cd9cb9ff4957bcd7dcbbbc8f8b82{
      
@@ -69,10 +73,10 @@ width: fit-content;min-width:  unset;
 
 
 
-
     background: var(--blueColor); 
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
+font-size: var(--headerFontSize); 
 }
 .icon-2-3ab20402bab747709840af7e5770adea{
     
@@ -85,7 +89,7 @@ width: fit-content;min-width:  unset;
 
 height: fit-content;min-height:  unset;
 width: fit-content;min-width:  unset;
-    
+    margin-right: var(--headerTextmarginSize); 
 }
 .text-2-cfec73fbc57a4c238869e288dc336fed{
      
@@ -94,14 +98,18 @@ width: fit-content;min-width:  unset;
 
 
 
-
     background: var(--blueColor); 
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
+font-size: var(--headerFontSize); 
 }
 .layer-23-60d8bac0cce8474fa29bc96db38e55bd{
     
-
+border-radius: 1.6627634660421549vh;
+padding-bottom: 2px;
+padding-left: 10px;
+padding-right: 10px;
+box-sizing: border-box;
 height: fit-content;min-height:  unset;
 width: fit-content;min-width:  unset;
     background: var(--blueColor); 
@@ -113,10 +121,10 @@ width: fit-content;min-width:  unset;
 
 
 
-
     background: var(--whiteColor); 
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
+font-size: var(--headerFontSize); 
 }
 .layer-2-fca5150bad28425c96891883f1961bc5{
     flex-direction: row;
@@ -132,6 +140,32 @@ align-self: stretch;height: unset;min-height: unset;
     width: var(--lateralMarginSize); 
 max-width: var(--lateralMarginSize); 
 min-width: var(--lateralMarginSize); 
+}
+.layer-23-6442a44f5f734fef96963abdc8347c15{
+    
+justify-content: center;
+align-items: center;
+
+background: transparent;
+height: 90vh;min-height: 90vh;
+align-self: stretch;width: unset;min-width: unset;
+position: sticky;
+ top: 0;
+z-index: 1;
+    
+}
+.layer-24-9d9971496e724196ba9515a9778cad73{
+    
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-image: url('/assets/whatsapp.png');
+    height: var(--Whatsapp); 
+max-height: var(--Whatsapp); 
+min-height: var(--Whatsapp); 
+width: var(--Whatsapp); 
+max-width: var(--Whatsapp); 
+min-width: var(--Whatsapp); 
 }
 .layer-4-c05e64744106454fba158c969644f86b{
     
@@ -152,7 +186,7 @@ align-self: stretch;width: unset;min-width: unset;
 .text-4-2750cdc08d2c482fa2702edd3054b397{
      
 
-font-size: 50px;
+font-size: 36px;
 font-weight: bold;
 
 
@@ -167,7 +201,7 @@ background-repeat: no-repeat;
 background-size:cover;
 background-position: center;
 background-image: url('/assets/DSC08088 - Framed.png');
-height: 85vh;min-height: 85vh;
+height: 80vh;min-height: 80vh;
 align-self: stretch;width: unset;min-width: unset;
     
 }
@@ -211,12 +245,33 @@ align-self: stretch;width: unset;min-width: unset;
 }
 .layer-11-3da2d4a4b6f845849cd5cb16b6a923e4{
     
+justify-content: center;
+align-items: center;
 
-height: 20vh;min-height: 20vh;
+height: 5vh;min-height: 5vh;
+align-self: stretch;width: unset;min-width: unset;
+    background: var(--blueColor); 
+}
+.text-6-fe4ad7bc0c774bd48dd3842a3f40d729{
+     
+
+
+
+
+
+
+    background: var(--whiteColor); 
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.layer-22-858ecdad41914730a8750bbe03110c10{
+    
+
+height: 10vh;min-height: 10vh;
 align-self: stretch;width: unset;min-width: unset;
     
 }
-.layer-5-f32ee8dae55c49d3967647a3f2738445{
+.layer-24-b212849f3dd9452aa25cef0f85462f78{
     
 
 align-self: stretch;height: unset;min-height: unset;

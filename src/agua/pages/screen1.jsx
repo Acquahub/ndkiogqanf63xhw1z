@@ -6,7 +6,9 @@ import styles from './screen1.module.css';
 
 function Screen1() {
     
-    
+    const openInNewTab = url => {
+    window.open(url, '_blank', 'noopener,noreferrer');
+};
 
     return(
         <div className={"baseScreen " + styles["Screen1"]}>
@@ -19,23 +21,27 @@ function Screen1() {
 <div id="layer-18-972a83d2cc8e4c7f81baedf25452a512" className={"baseLayer " + styles["layer-18-972a83d2cc8e4c7f81baedf25452a512"]}   >
 <div id="layer-20-1227f11f739c4bb287716960ff3b81ce" className={"baseLayer " + styles["layer-20-1227f11f739c4bb287716960ff3b81ce"]}   >
 <div id="layer-21-dba7087fdb9b4557840b4fbeadb332b8" className={"baseLayer " + styles["layer-21-dba7087fdb9b4557840b4fbeadb332b8"]}   >
-<div id="text-1-3285cd9cb9ff4957bcd7dcbbbc8f8b82" className={"baseText " + styles["text-1-3285cd9cb9ff4957bcd7dcbbbc8f8b82"]}   >[Text]</div>
-<span id="3ab20402bab747709840af7e5770adea" className={"baseIcon " + styles["icon-2-3ab20402bab747709840af7e5770adea"]}  >extension</span>
+<div id="text-1-3285cd9cb9ff4957bcd7dcbbbc8f8b82" className={"baseText " + styles["text-1-3285cd9cb9ff4957bcd7dcbbbc8f8b82"]}   >Quiénes somos</div>
+<span id="3ab20402bab747709840af7e5770adea" className={"baseIcon " + styles["icon-2-3ab20402bab747709840af7e5770adea"]}  >keyboard_arrow_down</span>
 </div>
 <div id="layer-22-ff4055fc15734d03bba65c0705e3facd" className={"baseLayer " + styles["layer-22-ff4055fc15734d03bba65c0705e3facd"]}   >
-<div id="text-2-cfec73fbc57a4c238869e288dc336fed" className={"baseText " + styles["text-2-cfec73fbc57a4c238869e288dc336fed"]}   >[Text]</div>
+<div id="text-2-cfec73fbc57a4c238869e288dc336fed" className={"baseText " + styles["text-2-cfec73fbc57a4c238869e288dc336fed"]}   >Empresas</div>
 </div>
 <div id="layer-23-60d8bac0cce8474fa29bc96db38e55bd" className={"baseLayer " + styles["layer-23-60d8bac0cce8474fa29bc96db38e55bd"]}   >
-<div id="text-3-86f73e91e8174ea7b3ac412a63082772" className={"baseText " + styles["text-3-86f73e91e8174ea7b3ac412a63082772"]}   >[Text]</div>
+<div id="text-3-86f73e91e8174ea7b3ac412a63082772" className={"baseText " + styles["text-3-86f73e91e8174ea7b3ac412a63082772"]}   >Descarga</div>
 </div>
 </div>
 </div>
 </div>
 <div id="layer-2-fca5150bad28425c96891883f1961bc5" className={"baseLayer " + styles["layer-2-fca5150bad28425c96891883f1961bc5"]}   >
-<div id="layer-3-747d490938134c868279bf1358fb72b6" className={"baseLayer " + styles["layer-3-747d490938134c868279bf1358fb72b6"]}   ></div>
+<div id="layer-3-747d490938134c868279bf1358fb72b6" className={"baseLayer " + styles["layer-3-747d490938134c868279bf1358fb72b6"]}   >
+<div id="layer-23-6442a44f5f734fef96963abdc8347c15" className={"baseLayer " + styles["layer-23-6442a44f5f734fef96963abdc8347c15"]}   >
+<div id="layer-24-9d9971496e724196ba9515a9778cad73" className={"baseLayer " + styles["layer-24-9d9971496e724196ba9515a9778cad73"]}   onClick={() => openInNewTab("https://wa.me/+573128339854?text=")}></div>
+</div>
+</div>
 <div id="layer-4-c05e64744106454fba158c969644f86b" className={"baseLayer " + styles["layer-4-c05e64744106454fba158c969644f86b"]}   >
 <div id="layer-6-535d9c8896264fdfaa4e251462fc9d27" className={"baseLayer " + styles["layer-6-535d9c8896264fdfaa4e251462fc9d27"]}   >
-<div id="text-4-2750cdc08d2c482fa2702edd3054b397" className={"baseText " + styles["text-4-2750cdc08d2c482fa2702edd3054b397"]}   >El app de carpooling para comunidades.</div>
+<div id="text-4-2750cdc08d2c482fa2702edd3054b397" className={"baseText " + styles["text-4-2750cdc08d2c482fa2702edd3054b397"]}   >¡El app de carpooling para comunidades!</div>
 </div>
 <div id="layer-7-d21cbf44cad4457283d3409c2b9e8992" className={"baseLayer " + styles["layer-7-d21cbf44cad4457283d3409c2b9e8992"]}   ></div>
 <div id="layer-8-e709138f304240f6a126efa3c8a24c2f" className={"baseLayer " + styles["layer-8-e709138f304240f6a126efa3c8a24c2f"]}   >
@@ -45,9 +51,12 @@ function Screen1() {
 <div id="layer-16-bb125fa54c5d4623a3229fdff3738324" className={"baseLayer " + styles["layer-16-bb125fa54c5d4623a3229fdff3738324"]}   ></div>
 </div>
 </div>
-<div id="layer-11-3da2d4a4b6f845849cd5cb16b6a923e4" className={"baseLayer " + styles["layer-11-3da2d4a4b6f845849cd5cb16b6a923e4"]}   ></div>
+<div id="layer-11-3da2d4a4b6f845849cd5cb16b6a923e4" className={"baseLayer " + styles["layer-11-3da2d4a4b6f845849cd5cb16b6a923e4"]}   >
+<div id="text-6-fe4ad7bc0c774bd48dd3842a3f40d729" className={"baseText " + styles["text-6-fe4ad7bc0c774bd48dd3842a3f40d729"]}   >Vai App © Copyright 2023. All Rights Reserved. Términos y condiciones.</div>
 </div>
-<div id="layer-5-f32ee8dae55c49d3967647a3f2738445" className={"baseLayer " + styles["layer-5-f32ee8dae55c49d3967647a3f2738445"]}   ></div>
+<div id="layer-22-858ecdad41914730a8750bbe03110c10" className={"baseLayer " + styles["layer-22-858ecdad41914730a8750bbe03110c10"]}   ></div>
+</div>
+<div id="layer-24-b212849f3dd9452aa25cef0f85462f78" className={"baseLayer " + styles["layer-24-b212849f3dd9452aa25cef0f85462f78"]}   ></div>
 </div>
         </div>
     );
