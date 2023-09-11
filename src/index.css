@@ -78,13 +78,58 @@ code {
 	--Whatsapp: 4vw;
 	--headerTextmarginSize: 1vw;
 	--logomarginSize: 5vw;
-	--headerVisibility2: none;
-	--headerVisibility1: flex;
+	--headerVisibility2: flex;
+	--headerVisibility1: none;
+	--bodyPaddingSizeV: 5vh;
+	--bodyButtonsMarginSizeH: 1vw;
+	--buttonPaddingSizeH: 10px;
+	--buttonPaddingSizeV: 2px;
+	--buttonRadiousSize: 100px;
+	--bodyOrientation: column;
+	--titleSize: 28px;
+	--footerTextSize: 12px;
+	--bodyimageSizeH: 65vw;
+	--bodyimageSizeV: 65vh;
+	--BodyFontSize: 18px;
+	--BodyTextMarginSizeV: 2vh;
 
 }
 
+.layer-25-6557e7e167164577a4119b49e0c0ee26-orientation{
+align-items: var(--horizontalAxis);
+justify-content: var(--verticalAxis);
+}
+.layer-24-c8b28da7f7da4ab8863168f2a030270c-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-24-c8b28da7f7da4ab8863168f2a030270c-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-36-7a9ce26049564bcb8db0d1dc23e722c1-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-35-b2173c153ca04827861ce111c5920602-orientation{
+align-items: var(--horizontalAxis);
+justify-content: var(--verticalAxis);
+}
+.layer-37-ab83e74565f94de086650ec34dfc491e-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-37-ab83e74565f94de086650ec34dfc491e-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-34-ee1984a2fff44b1ca4d16b6dd4bda7b6-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
 @media (max-width: 480px) {:root{
 	--headerVisibility: none;
+	--headerVisibility2: flex;
+	--bodyOrientation: column;
+	--titleSize: 28px;
+	--footerTextSize: 12px;
+	--bodyimageSize: 80vw;
+	--headerVisibility1: none;
+	--bodyimageSizeH: 65vw;
 	--whiteColor: #FFFFFF;
 	--blueColor: #2CA4FF;
 	--greyColor: #F2F2F2;
@@ -95,9 +140,42 @@ code {
 	--Whatsapp: 4vw;
 	--headerTextmarginSize: 1vw;
 	--logomarginSize: 5vw;
-	--headerVisibility2: flex;
+	--bodyPaddingSizeV: 5vh;
+	--bodyButtonsMarginSizeH: 1vw;
+	--buttonPaddingSizeH: 10px;
+	--buttonPaddingSizeV: 2px;
+	--buttonRadiousSize: 100px;
+	--bodyimageSizeV: 65vh;
+	--BodyFontSize: 18px;
+	--BodyTextMarginSizeV: 2vh;
 
-}  
+} 
+.layer-25-6557e7e167164577a4119b49e0c0ee26-orientation{
+align-items: var(--horizontalAxis);
+justify-content: var(--verticalAxis);
+}
+.layer-24-c8b28da7f7da4ab8863168f2a030270c-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-24-c8b28da7f7da4ab8863168f2a030270c-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-36-7a9ce26049564bcb8db0d1dc23e722c1-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-35-b2173c153ca04827861ce111c5920602-orientation{
+align-items: var(--horizontalAxis);
+justify-content: var(--verticalAxis);
+}
+.layer-37-ab83e74565f94de086650ec34dfc491e-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-37-ab83e74565f94de086650ec34dfc491e-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-34-ee1984a2fff44b1ca4d16b6dd4bda7b6-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+} 
 }
 @media (min-width: 481px) {:root{
 	--whiteColor: #FFFFFF;
@@ -112,11 +190,51 @@ code {
 	--headerVisibility: flex;
 	--logomarginSize: 5vw;
 	--headerVisibility2: none;
+	--bodyPaddingSizeV: 5vh;
+	--bodyButtonsMarginSizeH: 1vw;
+	--buttonPaddingSizeH: 10px;
+	--buttonPaddingSizeV: 2px;
+	--buttonRadiousSize: 100px;
+	--bodyOrientation: row;
+	--titleSize: 36px;
+	--footerTextSize: 18px;
+	--bodyimageSizeH: 35vw;
+	--bodyimageSizeV: 65vh;
+	--BodyFontSize: 26px;
+	--BodyTextMarginSizeV: 2vh;
 
-}  
+} 
+.layer-25-6557e7e167164577a4119b49e0c0ee26-orientation{
+align-items: var(--verticalAxis);
+justify-content: var(--horizontalAxis);
+}
+.layer-24-c8b28da7f7da4ab8863168f2a030270c-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-24-c8b28da7f7da4ab8863168f2a030270c-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-36-7a9ce26049564bcb8db0d1dc23e722c1-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-35-b2173c153ca04827861ce111c5920602-orientation{
+align-items: var(--verticalAxis);
+justify-content: var(--horizontalAxis);
+}
+.layer-37-ab83e74565f94de086650ec34dfc491e-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-37-ab83e74565f94de086650ec34dfc491e-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-34-ee1984a2fff44b1ca4d16b6dd4bda7b6-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+} 
 }
 @media (max-aspect-ratio: 1/1) and (min-width: 481px) {:root{
 	--headerVisibility: flex;
+	--bodyOrientation: row;
+	--headerVisibility1: flex;
 	--whiteColor: #FFFFFF;
 	--blueColor: #2CA4FF;
 	--greyColor: #F2F2F2;
@@ -127,7 +245,41 @@ code {
 	--Whatsapp: 4vw;
 	--headerTextmarginSize: 1vw;
 	--logomarginSize: 5vw;
+	--bodyPaddingSizeV: 5vh;
+	--bodyButtonsMarginSizeH: 1vw;
+	--buttonPaddingSizeH: 10px;
+	--buttonPaddingSizeV: 2px;
+	--buttonRadiousSize: 100px;
+	--titleSize: 36px;
+	--footerTextSize: 18px;
+	--bodyimageSize: 35vw;
 	--headerVisibility2: none;
 
-}  
+} 
+.layer-25-6557e7e167164577a4119b49e0c0ee26-orientation{
+align-items: var(--verticalAxis);
+justify-content: var(--horizontalAxis);
+}
+.layer-24-c8b28da7f7da4ab8863168f2a030270c-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-24-c8b28da7f7da4ab8863168f2a030270c-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-36-7a9ce26049564bcb8db0d1dc23e722c1-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-35-b2173c153ca04827861ce111c5920602-orientation{
+align-items: var(--verticalAxis);
+justify-content: var(--horizontalAxis);
+}
+.layer-37-ab83e74565f94de086650ec34dfc491e-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-37-ab83e74565f94de086650ec34dfc491e-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-34-ee1984a2fff44b1ca4d16b6dd4bda7b6-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+} 
 }
