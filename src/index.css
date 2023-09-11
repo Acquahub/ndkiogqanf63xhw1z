@@ -79,7 +79,7 @@ code {
 	--headerTextmarginSize: 1vw;
 	--logomarginSize: 5vw;
 	--headerVisibility2: none;
-	--headerVisibility1: none;
+	--headerVisibility1: flex;
 	--bodyPaddingSizeV: 5vh;
 	--bodyButtonsMarginSizeH: 1vw;
 	--buttonPaddingSizeH: 10px;
@@ -88,9 +88,9 @@ code {
 	--bodyOrientation: row;
 	--titleSize: 36px;
 	--footerTextSize: 18px;
-	--bodyimageSizeH: 35vw;
-	--bodyimageSizeV: 60vh;
-	--BodyFontSize: 26px;
+	--bodyimageSizeH: 65vw;
+	--bodyimageSizeV: 35vh;
+	--BodyFontSize: 18px;
 	--BodyTextMarginSizeV: 2vh;
 	--bodySectionSize: 75vh;
 
@@ -205,9 +205,9 @@ flex-grow: 1; align-self: unset;
 	--bodyOrientation: row;
 	--titleSize: 36px;
 	--footerTextSize: 18px;
-	--bodyimageSizeH: 35vw;
-	--bodyimageSizeV: 60vh;
-	--BodyFontSize: 26px;
+	--bodyimageSizeH: 65vw;
+	--bodyimageSizeV: 35vh;
+	--BodyFontSize: 18px;
 	--BodyTextMarginSizeV: 2vh;
 
 } 

@@ -114,7 +114,7 @@ font-size: var(--headerFontSize);
 .layer-23-60d8bac0cce8474fa29bc96db38e55bd{
     
 justify-content: center;
-border-radius: 1.6627634660421533vh;
+border-radius: 2.131147540983612vh;
 height: fit-content;min-height:  unset;
 width: fit-content;min-width:  unset;
     background: var(--blueColor); 
@@ -234,7 +234,6 @@ padding-right: var(--lateralMarginSize);
 }
 .layer-14-953b92dfc8074c11ac23a066d957f37f{
     
-align-items: space-between;
 
 height: 90vh;min-height: 90vh;
 align-self: stretch;width: unset;min-width: unset;
@@ -697,9 +696,10 @@ align-self: stretch;width: unset;min-width: unset;
 .layer-52-04cdb59309f44c2ab2baacf44c45bf53{
     
 justify-content: center;
+align-items: flex-end;
 
 height: fit-content;min-height:  unset;
-width: fit-content;min-width:  unset;
+flex-grow: 1;width: unset;min-width: unset;
     margin-right: var(--bodyButtonsMarginSizeH); 
 }
 .text-21-b268a6b4d3514737b4e97353515f06b7{
@@ -716,9 +716,10 @@ font-size: var(--footerTextSize);
 }
 .layer-54-53bcc07ec7f649459a4a92357c75e409{
     
+align-items: center;
 
 height: fit-content;min-height:  unset;
-width: fit-content;min-width:  unset;
+flex-grow: 1;width: unset;min-width: unset;
     margin-right: var(--bodyButtonsMarginSizeH); 
 }
 .text-20-bed4900b2b38487fa9c4e83e9b0f3ca4{
@@ -737,7 +738,7 @@ font-size: var(--footerTextSize);
     
 
 height: fit-content;min-height:  unset;
-width: fit-content;min-width:  unset;
+flex-grow: 1;width: unset;min-width: unset;
     
 }
 .text-22-b3ad59a8cfd84256984e3c52d2abb4d7{
@@ -756,15 +757,16 @@ font-size: var(--footerTextSize);
     flex-direction: row;
 justify-content: center;
 
-
+height: fit-content;min-height:  unset;
 align-self: stretch;width: unset;min-width: unset;
     
 }
 .layer-56-b20bfbd8996a4cce8658bcf8343527f7{
     flex-direction: row;
+justify-content: flex-end;
 
 height: fit-content;min-height:  unset;
-width: fit-content;min-width:  unset;
+flex-grow: 1;width: unset;min-width: unset;
     margin-right: var(--bodyButtonsMarginSizeH); 
 }
 .text-23-b2f340a335064957a26ade9bee233335{
@@ -795,7 +797,7 @@ font-size: var(--footerTextSize);
     
 
 height: fit-content;min-height:  unset;
-width: fit-content;min-width:  unset;
+flex-grow: 1;width: unset;min-width: unset;
     
 }
 .text-25-37e87438dc6241ddb705319bbba76903{
