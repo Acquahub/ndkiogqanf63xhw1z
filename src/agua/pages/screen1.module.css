@@ -1,1 +1,129 @@
 
+.layer-1-31db29044ab64d7b9044fc3a2d40f284{
+    
+align-items: center;
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-image: url('/assets/DSC08088 - Framed.png');
+    height: var(--backgroundSizeV); 
+max-height: var(--backgroundSizeV); 
+min-height: var(--backgroundSizeV); 
+width: var(--backgroundSizeH); 
+max-width: var(--backgroundSizeH); 
+min-width: var(--backgroundSizeH); 
+padding-top: var(--backgroundpaddingSizeV); 
+padding-bottom: var(--backgroundpaddingSizeV); 
+padding-left: var(--backgroundpaddingSizeh); 
+padding-right: var(--backgroundpaddingSizeh); 
+}
+.layer-2-998fa89af8f743ad933c6bd716588fee{
+    
+--horizontalAxis: center;
+
+height: fit-content;min-height:  unset;
+align-self: stretch;width: unset;min-width: unset;
+    flex-direction: var(--headerOrientation); 
+}
+.layer-3-fb94fc29dc874485ac1ae87804edceb5{
+    
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-image: url('/assets/vai-logo.png');
+height: 55px;min-height: 55px;
+width: 191px;min-width: 191px;
+    margin-bottom: var(--headervmarginSize); 
+}
+.layer-4-b36b6c98da82492d939154ec936a1ebb{
+    
+
+
+    width: var(--headerinnermarginSize); 
+max-width: var(--headerinnermarginSize); 
+min-width: var(--headerinnermarginSize); 
+display: var(--headervisibility); 
+display: none;
+}
+.layer-5-7cbda320cf4f40c78f3e63211ab6bde3{
+    
+--verticalAxis: center;
+--horizontalAxis: center;
+
+height: fit-content;min-height:  unset;
+width: fit-content;min-width:  unset;
+    flex-direction: var(--headerOrientation); 
+}
+.layer-6-0a6b50e3030a489586aeee361485d580{
+    flex-direction: row;
+align-items: center;
+
+height: fit-content;min-height:  unset;
+width: fit-content;min-width:  unset;
+    margin-bottom: var(--headervmarginSize); 
+padding-right: var(--headerhmarginSize); 
+}
+.text-1-3629ab737ecf4984bd1a8138be0297eb{
+     
+
+
+
+
+
+    background: var(--whiteColor); 
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-size: var(--headerfontSize); 
+}
+.icon-1-9875f494be9e4a079e3736d3e00f52b8{
+    
+
+    color: var(--whiteColor); 
+width: var(--headerfontSize); 
+max-width: var(--headerfontSize); 
+min-width: var(--headerfontSize); 
+}
+.layer-7-5e9bccfb97454d349cf3e25cfe29c580{
+    
+
+height: fit-content;min-height:  unset;
+width: fit-content;min-width:  unset;
+    margin-bottom: var(--headervmarginSize); 
+padding-right: var(--headerhmarginSize); 
+}
+.text-2-692d9147f28844cba77e5196d724f803{
+     
+
+
+
+
+
+    background: var(--whiteColor); 
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-size: var(--headerfontSize); 
+}
+.layer-8-5ff0d9064a694cc58a0a3510af6273cf{
+    
+border-radius: 1.6627634660421533vh;
+padding-bottom: 2px;
+padding-left: 10px;
+padding-right: 10px;
+box-sizing: border-box;
+background-color: #FFFFFF;
+height: fit-content;min-height:  unset;
+width: fit-content;min-width:  unset;
+    
+}
+.text-3-b60d5e42c7954f96929e5bb7a406466a{
+     
+
+
+
+
+
+    font-size: var(--headerfontSize); 
+background: var(--blueColor); 
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
