@@ -94,7 +94,7 @@ function Screen1() {
 </div>
 </div>
 </div>
-<div id="layer-34-ee1984a2fff44b1ca4d16b6dd4bda7b6" className={"baseLayer " + styles["layer-34-ee1984a2fff44b1ca4d16b6dd4bda7b6"]}   ></div>
+<div id="layer-34-ee1984a2fff44b1ca4d16b6dd4bda7b6" className={"baseLayer " + styles["layer-34-ee1984a2fff44b1ca4d16b6dd4bda7b6"]+ ' layer-34-ee1984a2fff44b1ca4d16b6dd4bda7b6-parentOrientationVariable'}   ></div>
 </div>
 </div>
 </div>
@@ -111,9 +111,38 @@ con el transporte público mientras garantizamos la seguridad de nuestros usuari
 </div>
 </div>
 <div id="layer-11-3da2d4a4b6f845849cd5cb16b6a923e4" className={"baseLayer " + styles["layer-11-3da2d4a4b6f845849cd5cb16b6a923e4"]}   >
-<div id="text-6-fe4ad7bc0c774bd48dd3842a3f40d729" className={"baseText " + styles["text-6-fe4ad7bc0c774bd48dd3842a3f40d729"]}   >Vai App © Copyright 2023. All Rights Reserved. Términos y condiciones.</div>
+<div id="text-6-fe4ad7bc0c774bd48dd3842a3f40d729" className={"baseText " + styles["text-6-fe4ad7bc0c774bd48dd3842a3f40d729"]}   >Vai App © Copyright 2023. All Rights Reserved.</div>
 </div>
-<div id="layer-22-858ecdad41914730a8750bbe03110c10" className={"baseLayer " + styles["layer-22-858ecdad41914730a8750bbe03110c10"]}   ></div>
+<div id="layer-22-858ecdad41914730a8750bbe03110c10" className={"baseLayer " + styles["layer-22-858ecdad41914730a8750bbe03110c10"]}   >
+<div id="layer-46-bfd86dcfd1fa4fe6848f655e1ad61d46" className={"baseLayer " + styles["layer-46-bfd86dcfd1fa4fe6848f655e1ad61d46"]}   >
+<div id="layer-47-f982e1adde1c4a9394f6fe77af13eb3b" className={"baseLayer " + styles["layer-47-f982e1adde1c4a9394f6fe77af13eb3b"]}   ></div>
+<div id="layer-48-eec8a621ac09496ea2eeb8466a2aa0a8" className={"baseLayer " + styles["layer-48-eec8a621ac09496ea2eeb8466a2aa0a8"]}   ></div>
+<div id="layer-49-ad173f4154764668ba5f0865881f3666" className={"baseLayer " + styles["layer-49-ad173f4154764668ba5f0865881f3666"]}   ></div>
+</div>
+<div id="layer-50-d6641ade6c10403f99a0e76e88aacdfa" className={"baseLayer " + styles["layer-50-d6641ade6c10403f99a0e76e88aacdfa"]}   >
+<div id="text-19-f1763e7889264094ab3d1c9e27352b62" className={"baseText " + styles["text-19-f1763e7889264094ab3d1c9e27352b62"]}   >Nosotros</div>
+</div>
+<div id="layer-51-3b8929666441419c875c248e1cc1d3b9" className={"baseLayer " + styles["layer-51-3b8929666441419c875c248e1cc1d3b9"]}   >
+<div id="layer-52-04cdb59309f44c2ab2baacf44c45bf53" className={"baseLayer " + styles["layer-52-04cdb59309f44c2ab2baacf44c45bf53"]}   >
+<div id="text-21-b268a6b4d3514737b4e97353515f06b7" className={"baseText " + styles["text-21-b268a6b4d3514737b4e97353515f06b7"]}   >Términos y condiciones.</div>
+</div>
+<div id="layer-54-53bcc07ec7f649459a4a92357c75e409" className={"baseLayer " + styles["layer-54-53bcc07ec7f649459a4a92357c75e409"]}   >
+<div id="text-20-bed4900b2b38487fa9c4e83e9b0f3ca4" className={"baseText " + styles["text-20-bed4900b2b38487fa9c4e83e9b0f3ca4"]}   >Política de privacidad.</div>
+</div>
+<div id="layer-53-ce53beceeac44d08b143d5240f6ecb45" className={"baseLayer " + styles["layer-53-ce53beceeac44d08b143d5240f6ecb45"]}   >
+<div id="text-22-b3ad59a8cfd84256984e3c52d2abb4d7" className={"baseText " + styles["text-22-b3ad59a8cfd84256984e3c52d2abb4d7"]}   >Superintendencia de Industria y Comercio.</div>
+</div>
+</div>
+<div id="layer-55-cba3d5924f16426695d47d47839ecfc8" className={"baseLayer " + styles["layer-55-cba3d5924f16426695d47d47839ecfc8"]}   >
+<div id="layer-56-b20bfbd8996a4cce8658bcf8343527f7" className={"baseLayer " + styles["layer-56-b20bfbd8996a4cce8658bcf8343527f7"]}   >
+<div id="text-23-b2f340a335064957a26ade9bee233335" className={"baseText " + styles["text-23-b2f340a335064957a26ade9bee233335"]}   >Teléfono:</div>
+<div id="text-24-f05fc35e97754657ad3dac2f7036d306" className={"baseText " + styles["text-24-f05fc35e97754657ad3dac2f7036d306"]}   >+57 312 8339854</div>
+</div>
+<div id="layer-57-b284218c0fe74bd794039f90ee84ea8e" className={"baseLayer " + styles["layer-57-b284218c0fe74bd794039f90ee84ea8e"]}   >
+<div id="text-25-37e87438dc6241ddb705319bbba76903" className={"baseText " + styles["text-25-37e87438dc6241ddb705319bbba76903"]}   >VAI COLOMBIA S.A.S. – NIT: 901586077-1</div>
+</div>
+</div>
+</div>
 </div>
 <div id="layer-24-b212849f3dd9452aa25cef0f85462f78" className={"baseLayer " + styles["layer-24-b212849f3dd9452aa25cef0f85462f78"]}   ></div>
 </div>
