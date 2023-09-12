@@ -11,54 +11,92 @@ function Screen1() {
     return(
         <div className={"baseScreen " + styles["Screen1"]}>
             
-<div id="header-2dc67cf116774bca86fedbe0cff242a1" className={"baseLayer " + styles["header-2dc67cf116774bca86fedbe0cff242a1"]}   >
-<img id="logo-0e07434126074261afd808fbd83430f8" className={"baseImageView " + styles["logo-0e07434126074261afd808fbd83430f8"]}  alt="logo" src='/assets/vai-logo.png'  />
-<div id="optionspc-1d8a8ab3a6d34932a1262532c9a65d2e" className={"baseLayer " + styles["optionspc-1d8a8ab3a6d34932a1262532c9a65d2e"]}   >
-<div id="text-7-15dd9a7a312346b195cf561502332e34" className={"baseText " }   >Quienes somos</div>
-<div id="text-9-c5e018599de145bf9b6be46227ad3aec" className={"baseText " + styles["text-9-c5e018599de145bf9b6be46227ad3aec"]}   >Empresa</div>
-<div id="downloadbutton-7e6dfc45865e46b58d2bcd52b5f9f679" className={"baseLayer " + styles["downloadbutton-7e6dfc45865e46b58d2bcd52b5f9f679"]}   >
-<div id="layer-14-2dd0477942ef4e53962f859c20217253" className={"baseLayer " + styles["layer-14-2dd0477942ef4e53962f859c20217253"]}   >
-<div id="text-11-da6c9c229efa47f5a2e6330c3e64bc9d" className={"baseText " + styles["text-11-da6c9c229efa47f5a2e6330c3e64bc9d"]}   >Descarga</div>
+<div id="layer-1-96e4a5730a5b457b824e3800c312e8f6" className={"baseLayer " + styles["layer-1-96e4a5730a5b457b824e3800c312e8f6"]}   >
+<img id="imageview-1-8d5b38d7d7d74e998021c26dd63d2f13" className={"baseImageView " + styles["imageview-1-8d5b38d7d7d74e998021c26dd63d2f13"]}  alt="imageview-1" src='/assets/vai-logo.png'  />
+<div id="layer-11-6a45aa2d09fa4c1b9a108039a3de291d" className={"baseLayer " + styles["layer-11-6a45aa2d09fa4c1b9a108039a3de291d"]}   >
+<span id="284f98aebdc14460af8c4f5a9375af26" className={"baseIcon " + styles["icon-1-284f98aebdc14460af8c4f5a9375af26"]}  >menu</span>
 </div>
+<div id="layer-12-6aac6873b51949548767061942da8826" className={"baseLayer " + styles["layer-12-6aac6873b51949548767061942da8826"]}   >
+<div id="layer-13-12bb6bd7dc1e44ccaa944fd3603fa0c4" className={"baseLayer " + styles["layer-13-12bb6bd7dc1e44ccaa944fd3603fa0c4"]}   >
+<div id="text-1-63ce9099a7cf44b590a6cbfc8681edf2" className={"baseText " + styles["text-1-63ce9099a7cf44b590a6cbfc8681edf2"]}   >Quiénes Somos</div>
+<span id="9dc6b0df012945bd815d40db6ee6fb6c" className={"baseIcon " + styles["icon-2-9dc6b0df012945bd815d40db6ee6fb6c"]}  >keyboard_arrow_down</span>
 </div>
+<div id="layer-14-e4553c3d741f4d5cb5f4e0eb1e11c30d" className={"baseLayer " + styles["layer-14-e4553c3d741f4d5cb5f4e0eb1e11c30d"]}   >
+<div id="text-2-bb30fa1f529d430f90d3d0c650ca7a88" className={"baseText " + styles["text-2-bb30fa1f529d430f90d3d0c650ca7a88"]}   >Empresa</div>
 </div>
-<div id="optionsmobile-7d975a7ff537452faa166f86338a89be" className={"baseLayer " + styles["optionsmobile-7d975a7ff537452faa166f86338a89be"]}   >
-<div id="text-8-20dba973ecbc487dad375c5bc2f546d8" className={"baseText " }   >Adios</div>
-</div>
-</div>
-<div id="hero-6325ae57482949a5ad074404670b8a36" className={"baseLayer " + styles["hero-6325ae57482949a5ad074404670b8a36"]}   ></div>
-<div id="content-fc3e90a3b3aa4c938d3f3225ece40bf4" className={"baseLayer " + styles["content-fc3e90a3b3aa4c938d3f3225ece40bf4"]}   >
-<div id="whoweare-b683250018134a41927397ce355c8cd7" className={"baseLayer " + styles["whoweare-b683250018134a41927397ce355c8cd7"]}   >
-<div id="layer-11-602a23d6aeff4fbb9d6d8f6f8b9a158a" className={"baseLayer " + styles["layer-11-602a23d6aeff4fbb9d6d8f6f8b9a158a"]}   >
-<div id="text-8-451e675167ae42bab5b3285ae0136f24" className={"baseText " + styles["text-8-451e675167ae42bab5b3285ae0136f24"]}   >¿Quiénes somos?</div>
-<div id="layer-11-e11658d1b76c4cf8aaf64e521309baef" className={"baseLayer " + styles["layer-11-e11658d1b76c4cf8aaf64e521309baef"]+ ' layer-11-e11658d1b76c4cf8aaf64e521309baef-orientation'}   >
-<img id="imageview-2-986cfb5a86f3401a96a546b1c9850928" className={"baseImageView " + styles["imageview-2-986cfb5a86f3401a96a546b1c9850928"]+ ' imageview-2-986cfb5a86f3401a96a546b1c9850928-parentOrientationVariable'+ ' imageview-2-986cfb5a86f3401a96a546b1c9850928-parentOrientationVariable'}  alt="imageview-2" src='/assets/telefonosfinal.png'  />
-<div id="layer-12-8f13977cc14d4e999abbc1a9c876379e" className={"baseLayer " + styles["layer-12-8f13977cc14d4e999abbc1a9c876379e"]}   >
-<div id="text-6-877b48f90910441fb3006b18a39c1e1d" className={"baseText " + styles["text-6-877b48f90910441fb3006b18a39c1e1d"]}   >Vai, en donde cada recorrido es una oportunidad, es una aplicación móvil de carpooling para comunidades que permite a sus usuarios movilizarse desde y hacia sus destinos de estudio o trabajo.</div>
-<div id="text-7-2970c4c0faeb44ceb0125017d987efb8" className={"baseText " + styles["text-7-2970c4c0faeb44ceb0125017d987efb8"]}   >Facilitamos la movilidad por medio de una solución tecnológica innovadora, práctica, segura y accesible.</div>
-<div id="layer-15-8c845343d955429fa56244636d33bc5c" className={"baseLayer " + styles["layer-15-8c845343d955429fa56244636d33bc5c"]}   >
-<div id="text-8-f031a68e30224024abf70574dc9e1ea7" className={"baseText " }   >Beneficios</div>
-<div id="text-13-2c3f70667a924e2fa125ccd6a321e058" className={"baseText " }   >Sostenibilidad</div>
+<div id="layer-15-97b9b0aaead64f4d93dccdef045fdd70" className={"baseLayer " + styles["layer-15-97b9b0aaead64f4d93dccdef045fdd70"]}   >
+<div id="layer-16-2da04cf4cc334deebfad194b47e70ea1" className={"baseLayer " + styles["layer-16-2da04cf4cc334deebfad194b47e70ea1"]}   >
+<div id="text-3-5407f813455f49a7b6792d28f183ed25" className={"baseText " + styles["text-3-5407f813455f49a7b6792d28f183ed25"]}   >Descarga</div>
 </div>
 </div>
 </div>
 </div>
-<div id="business-1c7d7b264e784553bfd63cb70d5b128a" className={"baseLayer " + styles["business-1c7d7b264e784553bfd63cb70d5b128a"]}   >
-<div id="text-9-f0b95c8289e24dae903fd8107a821884" className={"baseText " + styles["text-9-f0b95c8289e24dae903fd8107a821884"]}   >Empresas</div>
-<div id="layer-13-31f875d6a0854b0ead7b83dcff9b13a1" className={"baseLayer " + styles["layer-13-31f875d6a0854b0ead7b83dcff9b13a1"]+ ' layer-13-31f875d6a0854b0ead7b83dcff9b13a1-orientation'}   >
-<div id="layer-14-deb41c075d1a4deabf3c971a66087f7b" className={"baseLayer " + styles["layer-14-deb41c075d1a4deabf3c971a66087f7b"]}   >
-<div id="text-10-fc3471e527bd4cec8803b05d958dde3e" className={"baseText " + styles["text-10-fc3471e527bd4cec8803b05d958dde3e"]}   >Somos lo que tu empresa necesita para gestionar su movilidad de forma cómoda y segura.</div>
-<div id="text-11-2fd82381e84548aa873977e720e1a54f" className={"baseText " + styles["text-11-2fd82381e84548aa873977e720e1a54f"]}   >Nuestra plataforma te brinda la capacidad de administrar y optimizar la movilidad de tus empleados de manera eficiente. Con Vai, podrás hacer seguimiento en tiempo real de los trayectos, definir horarios y precios.</div>
-<div id="layer-16-52bf7f2e297147aebb5f4fdddc34660c" className={"baseLayer " + styles["layer-16-52bf7f2e297147aebb5f4fdddc34660c"]}   >
-<div id="text-12-b49041e2c3b04d1588fe004612d8aa22" className={"baseText " }   >Contáctanos</div>
-<div id="text-14-8ecf438caa8d40eb8a4952c8ecc3e511" className={"baseText " }   >Preguntas</div>
+<div id="layer-2-600b814016e54bdd83f3cd7d801c8f7f" className={"baseLayer " + styles["layer-2-600b814016e54bdd83f3cd7d801c8f7f"]}   >
+<div id="text-4-843f85cea52344459e43e1a090c1166e" className={"baseText " + styles["text-4-843f85cea52344459e43e1a090c1166e"]}   >El app de carpooling para comunidades.</div>
+</div>
+<div id="layer-3-85e1f25e97c94a97a59d15bb01665b97" className={"baseLayer " + styles["layer-3-85e1f25e97c94a97a59d15bb01665b97"]}   ></div>
+<div id="layer-4-f86039515c4644dc804066d70d2c0a80" className={"baseLayer " + styles["layer-4-f86039515c4644dc804066d70d2c0a80"]}   >
+<div id="layer-5-8e54315d72f541bd90cca1c37e74cb18" className={"baseLayer " + styles["layer-5-8e54315d72f541bd90cca1c37e74cb18"]}   >
+<div id="layer-6-1d32468d517a4f5980e968ed25fbe280" className={"baseLayer " + styles["layer-6-1d32468d517a4f5980e968ed25fbe280"]}   >
+<div id="layer-16-87050a0e2687491dbb6a90e23d0293bd" className={"baseLayer " + styles["layer-16-87050a0e2687491dbb6a90e23d0293bd"]}   >
+<div id="text-15-efd9dc5824504bb9afa47a5de466efd1" className={"baseText " + styles["text-15-efd9dc5824504bb9afa47a5de466efd1"]}   >¿Quiénes somos?</div>
+</div>
+<div id="layer-17-2c1fa109ec71499897792b032a379ef2" className={"baseLayer " + styles["layer-17-2c1fa109ec71499897792b032a379ef2"]+ ' layer-17-2c1fa109ec71499897792b032a379ef2-orientation'}   >
+<img id="imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094" className={"baseImageView " + styles["imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094"]+ ' imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094-parentOrientationVariable'+ ' imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094-parentOrientationVariable'}  alt="imageview-3" src='/assets/QuienesSomos.png'  />
+<div id="layer-23-95d7f455021a4de1842f5b830b5f9c6e" className={"baseLayer " + styles["layer-23-95d7f455021a4de1842f5b830b5f9c6e"]}   >
+<div id="layer-31-cf9999f2f257423abfd5813d8115a80d" className={"baseLayer " + styles["layer-31-cf9999f2f257423abfd5813d8115a80d"]}   >
+<div id="text-7-f33efae962db4c36b31c153be6d0fef2" className={"baseText " + styles["text-7-f33efae962db4c36b31c153be6d0fef2"]}   >Vai, en donde cada recorrido es una oportunidad, es una aplicación móvil de carpooling para comunidades que permite a sus usuarios movilizarse desde y hacia sus destinos de estudio o trabajo.
+
+Facilitamos la movilidad por medio de una solución tecnológica innovadora, práctica, segura y accesible.</div>
+</div>
+<div id="layer-24-e7e2909ced7b42fba518b70e2f78feeb" className={"baseLayer " + styles["layer-24-e7e2909ced7b42fba518b70e2f78feeb"]+ ' layer-24-e7e2909ced7b42fba518b70e2f78feeb-orientation'}   >
+<div id="layer-25-ce4342a5d3024548ab13bf12c46789ad" className={"baseLayer " + styles["layer-25-ce4342a5d3024548ab13bf12c46789ad"]}   >
+<div id="text-8-dd61466533964c9e9daa020028a34d89" className={"baseText " + styles["text-8-dd61466533964c9e9daa020028a34d89"]}   >Beneficios</div>
+</div>
+<div id="layer-26-c5c568e18ca74d53a1cba6f69d05af09" className={"baseLayer " + styles["layer-26-c5c568e18ca74d53a1cba6f69d05af09"]}   >
+<div id="text-9-174ba64f713541d9b4e87c9510aff2d5" className={"baseText " + styles["text-9-174ba64f713541d9b4e87c9510aff2d5"]}   >Sostenibilidad</div>
+</div>
+<div id="layer-27-809dca598825467cbb543d41bc4e0f17" className={"baseLayer " + styles["layer-27-809dca598825467cbb543d41bc4e0f17"]}   >
+<div id="text-10-3ed2a1f4c686455693c7d3b77274cb82" className={"baseText " + styles["text-10-3ed2a1f4c686455693c7d3b77274cb82"]}   >Blog</div>
 </div>
 </div>
-<img id="imageview-4-131834251255438f81dc39707630f03e" className={"baseImageView " + styles["imageview-4-131834251255438f81dc39707630f03e"]+ ' imageview-4-131834251255438f81dc39707630f03e-parentOrientationVariable'+ ' imageview-4-131834251255438f81dc39707630f03e-parentOrientationVariable'}  alt="imageview-4" src='/assets/carroFinal.png'  />
+</div>
+</div>
+</div>
+<div id="layer-7-d63e2d19601f4c1bb03bcd814dd7d70f" className={"baseLayer " + styles["layer-7-d63e2d19601f4c1bb03bcd814dd7d70f"]}   >
+<div id="layer-18-229bbcc7fb36493f84df12654c657d30" className={"baseLayer " + styles["layer-18-229bbcc7fb36493f84df12654c657d30"]}   >
+<div id="text-14-5aae451b6d624a9893d41a4d81db0162" className={"baseText " + styles["text-14-5aae451b6d624a9893d41a4d81db0162"]}   >Empresas</div>
+</div>
+<div id="layer-19-b35a7f935a4e4bc8b9cfc72f4624a606" className={"baseLayer " + styles["layer-19-b35a7f935a4e4bc8b9cfc72f4624a606"]+ ' layer-19-b35a7f935a4e4bc8b9cfc72f4624a606-orientation'}   >
+<div id="layer-22-cbe4411783ca404693b7d7de72978d33" className={"baseLayer " + styles["layer-22-cbe4411783ca404693b7d7de72978d33"]}   >
+<div id="text-11-abc650a0e667432a985cc21bc68aac62" className={"baseText " + styles["text-11-abc650a0e667432a985cc21bc68aac62"]}   >Somos lo que tu empresa necesita para gestionar su movilidad de forma cómoda y segura.
+
+Nuestra plataforma te brinda la capacidad de administrar y optimizar la movilidad de tus empleados de manera eficiente. Con Vai, podrás hacer seguimiento en tiempo real de los trayectos, definir horarios y precios</div>
+<div id="layer-28-f9b67a66faf54cb795a7b4a074d90da2" className={"baseLayer " + styles["layer-28-f9b67a66faf54cb795a7b4a074d90da2"]}   >
+<div id="layer-29-defc2387dceb49a99082e9951c9a9f61" className={"baseLayer " + styles["layer-29-defc2387dceb49a99082e9951c9a9f61"]}   >
+<div id="text-12-204d5bef2e7342c39421bd62e56b13c7" className={"baseText " + styles["text-12-204d5bef2e7342c39421bd62e56b13c7"]}   >Contáctanos</div>
+</div>
+<div id="layer-30-446b5bd27c04403b92062252620da012" className={"baseLayer " + styles["layer-30-446b5bd27c04403b92062252620da012"]}   >
+<div id="text-13-b980331ea4c34844b424f3c2a1ef2d18" className={"baseText " + styles["text-13-b980331ea4c34844b424f3c2a1ef2d18"]}   >Preguntas</div>
+</div>
+</div>
+</div>
+<img id="imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6" className={"baseImageView " + styles["imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6"]+ ' imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6-parentOrientationVariable'+ ' imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6-parentOrientationVariable'}  alt="imageview-4" src='/assets/Empresas.png'  />
 </div>
 </div>
 </div>
 </div>
+<div id="layer-8-9ea8c1c82dba4c00898f713cd7c842ed" className={"baseLayer " + styles["layer-8-9ea8c1c82dba4c00898f713cd7c842ed"]}   >
+<div id="layer-20-c26cdb50d581452b9407c8fd7f4d61f5" className={"baseLayer " + styles["layer-20-c26cdb50d581452b9407c8fd7f4d61f5"]}   >
+<div id="text-5-c99ce90f043b4768ba466b4b09fe1492" className={"baseText " + styles["text-5-c99ce90f043b4768ba466b4b09fe1492"]}   >Con Vai transformamos la movilidad a precios competitivos
+con el transporte público mientras garantizamos la seguridad de nuestros usuarios.</div>
+</div>
+<img id="imageview-2-8ac2deb55e0d4830a72bb87218fae584" className={"baseImageView " + styles["imageview-2-8ac2deb55e0d4830a72bb87218fae584"]}  alt="imageview-2" src='/assets/UltimaPagina.png'  />
+<div id="layer-21-5d5f42eb87b64e478b6ad7a6912fd673" className={"baseLayer " + styles["layer-21-5d5f42eb87b64e478b6ad7a6912fd673"]}   >
+<div id="text-6-62be0eebd5084fa39773c18f668c9da3" className={"baseText " + styles["text-6-62be0eebd5084fa39773c18f668c9da3"]}   >¡Ya está todo listo para comenzar tu viaje! ¿A dónde vamos hoy?</div>
+</div>
+</div>
+<div id="layer-9-02d94374e52d468da0c3c3b5fcc287c3" className={"baseLayer " + styles["layer-9-02d94374e52d468da0c3c3b5fcc287c3"]}   ></div>
         </div>
     );
 }
