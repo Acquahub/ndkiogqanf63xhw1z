@@ -42,7 +42,9 @@ function Screen1() {
 <div id="text-15-efd9dc5824504bb9afa47a5de466efd1" className={"baseText " + styles["text-15-efd9dc5824504bb9afa47a5de466efd1"]}   >¿Quiénes somos?</div>
 </div>
 <div id="layer-17-2c1fa109ec71499897792b032a379ef2" className={"baseLayer " + styles["layer-17-2c1fa109ec71499897792b032a379ef2"]+ ' layer-17-2c1fa109ec71499897792b032a379ef2-orientation'}   >
-<img id="imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094" className={"baseImageView " + styles["imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094"]+ ' imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094-parentOrientationVariable'+ ' imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094-parentOrientationVariable'}  alt="imageview-3" src='/assets/QuienesSomos.png'  />
+<div id="layer-32-b797e82466d64562987881d17483e401" className={"baseLayer " + styles["layer-32-b797e82466d64562987881d17483e401"]}   >
+<img id="imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094" className={"baseImageView " + styles["imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094"]}  alt="imageview-3" src='/assets/QuienesSomos.png'  />
+</div>
 <div id="layer-23-95d7f455021a4de1842f5b830b5f9c6e" className={"baseLayer " + styles["layer-23-95d7f455021a4de1842f5b830b5f9c6e"]}   >
 <div id="layer-31-cf9999f2f257423abfd5813d8115a80d" className={"baseLayer " + styles["layer-31-cf9999f2f257423abfd5813d8115a80d"]}   >
 <div id="text-7-f33efae962db4c36b31c153be6d0fef2" className={"baseText " + styles["text-7-f33efae962db4c36b31c153be6d0fef2"]}   >Vai, en donde cada recorrido es una oportunidad, es una aplicación móvil de carpooling para comunidades que permite a sus usuarios movilizarse desde y hacia sus destinos de estudio o trabajo.
@@ -69,9 +71,11 @@ Facilitamos la movilidad por medio de una solución tecnológica innovadora, pr�
 </div>
 <div id="layer-19-b35a7f935a4e4bc8b9cfc72f4624a606" className={"baseLayer " + styles["layer-19-b35a7f935a4e4bc8b9cfc72f4624a606"]+ ' layer-19-b35a7f935a4e4bc8b9cfc72f4624a606-orientation'}   >
 <div id="layer-22-cbe4411783ca404693b7d7de72978d33" className={"baseLayer " + styles["layer-22-cbe4411783ca404693b7d7de72978d33"]}   >
+<div id="layer-34-86dc3952f38a4cce9c159741f296804e" className={"baseLayer " + styles["layer-34-86dc3952f38a4cce9c159741f296804e"]}   >
 <div id="text-11-abc650a0e667432a985cc21bc68aac62" className={"baseText " + styles["text-11-abc650a0e667432a985cc21bc68aac62"]}   >Somos lo que tu empresa necesita para gestionar su movilidad de forma cómoda y segura.
 
 Nuestra plataforma te brinda la capacidad de administrar y optimizar la movilidad de tus empleados de manera eficiente. Con Vai, podrás hacer seguimiento en tiempo real de los trayectos, definir horarios y precios</div>
+</div>
 <div id="layer-28-f9b67a66faf54cb795a7b4a074d90da2" className={"baseLayer " + styles["layer-28-f9b67a66faf54cb795a7b4a074d90da2"]}   >
 <div id="layer-29-defc2387dceb49a99082e9951c9a9f61" className={"baseLayer " + styles["layer-29-defc2387dceb49a99082e9951c9a9f61"]}   >
 <div id="text-12-204d5bef2e7342c39421bd62e56b13c7" className={"baseText " + styles["text-12-204d5bef2e7342c39421bd62e56b13c7"]}   >Contáctanos</div>
@@ -81,7 +85,9 @@ Nuestra plataforma te brinda la capacidad de administrar y optimizar la movilida
 </div>
 </div>
 </div>
-<img id="imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6" className={"baseImageView " + styles["imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6"]+ ' imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6-parentOrientationVariable'+ ' imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6-parentOrientationVariable'}  alt="imageview-4" src='/assets/Empresas.png'  />
+<div id="layer-33-2305bee4a4f44755ad163951d7147390" className={"baseLayer " + styles["layer-33-2305bee4a4f44755ad163951d7147390"]}   >
+<img id="imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6" className={"baseImageView " + styles["imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6"]}  alt="imageview-4" src='/assets/Empresas.png'  />
+</div>
 </div>
 </div>
 </div>

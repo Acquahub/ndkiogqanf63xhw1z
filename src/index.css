@@ -79,7 +79,7 @@ code {
 	--fontSize2: 28px;
 	--fontSize1: 22px;
 	--bodyOrientation: row;
-	--bodyImageSize: 500px;
+	--bodyImageSize: 650px;
 	--textMarginV: 3vh;
 
 }
@@ -88,10 +88,13 @@ code {
 align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
-.imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094-parentOrientationVariable{
+.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
 flex-grow: 1; align-self: unset;
 }
-.imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094-parentOrientationVariable{
+.layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
 align-self: stretch; flex-grow: 0;
 }
 .layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
@@ -106,13 +109,16 @@ align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
 .layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
-}
-.imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
-}
-.imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6-parentOrientationVariable{
 align-self: stretch; flex-grow: 0;
+}
+.layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
 }
 @media (max-width: 480px) {:root{
 	--headerVisibility1: flex;
@@ -128,17 +134,21 @@ align-self: stretch; flex-grow: 0;
 	--secondaryColor: #FFFFFF;
 	--backgroundColor: #F2F2F2;
 	--hPaddingHeader: 5vw;
-	--fontSize2: 28px;
+	--textMarginV: 3vh;
+	--fontSize2: 16px;
 
 } 
 .layer-17-2c1fa109ec71499897792b032a379ef2-orientation{
 align-items: var(--horizontalAxis);
 justify-content: var(--verticalAxis);
 }
-.imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094-parentOrientationVariable{
+.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
 align-self: stretch; flex-grow: 0;
 }
-.imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094-parentOrientationVariable{
+.layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
 flex-grow: 1; align-self: unset;
 }
 .layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
@@ -153,13 +163,16 @@ align-items: var(--horizontalAxis);
 justify-content: var(--verticalAxis);
 }
 .layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6-parentOrientationVariable{
 flex-grow: 1; align-self: unset;
+}
+.layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
 } 
 }
 @media (min-width: 481px) {:root{
@@ -176,17 +189,20 @@ flex-grow: 1; align-self: unset;
 	--fontSize1: 22px;
 	--fontSize2: 28px;
 	--bodyOrientation: row;
-	--bodyImageSize: 500px;
+	--bodyImageSize: 650px;
 
 } 
 .layer-17-2c1fa109ec71499897792b032a379ef2-orientation{
 align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
-.imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094-parentOrientationVariable{
+.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
 flex-grow: 1; align-self: unset;
 }
-.imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094-parentOrientationVariable{
+.layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
 align-self: stretch; flex-grow: 0;
 }
 .layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
@@ -201,13 +217,16 @@ align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
 .layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
-}
-.imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
-}
-.imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6-parentOrientationVariable{
 align-self: stretch; flex-grow: 0;
+}
+.layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
 } 
 }
 @media (max-aspect-ratio: 1/1) and (min-width: 481px) {:root{
@@ -229,10 +248,13 @@ align-self: stretch; flex-grow: 0;
 align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
-.imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094-parentOrientationVariable{
+.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
 flex-grow: 1; align-self: unset;
 }
-.imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094-parentOrientationVariable{
+.layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
 align-self: stretch; flex-grow: 0;
 }
 .layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
@@ -247,12 +269,15 @@ align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
 .layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
-}
-.imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
-}
-.imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6-parentOrientationVariable{
 align-self: stretch; flex-grow: 0;
+}
+.layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
+}
+.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
+align-self: stretch; flex-grow: 0;
+}
+.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
+flex-grow: 1; align-self: unset;
 } 
 }
