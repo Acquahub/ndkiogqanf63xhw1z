@@ -42,10 +42,10 @@ function Screen1() {
 <div id="text-15-efd9dc5824504bb9afa47a5de466efd1" className={"baseText " + styles["text-15-efd9dc5824504bb9afa47a5de466efd1"]}   >¿Quiénes somos?</div>
 </div>
 <div id="layer-17-2c1fa109ec71499897792b032a379ef2" className={"baseLayer " + styles["layer-17-2c1fa109ec71499897792b032a379ef2"]+ ' layer-17-2c1fa109ec71499897792b032a379ef2-orientation'}   >
-<div id="layer-32-b797e82466d64562987881d17483e401" className={"baseLayer " + styles["layer-32-b797e82466d64562987881d17483e401"]}   >
+<div id="layer-32-b797e82466d64562987881d17483e401" className={"baseLayer " + styles["layer-32-b797e82466d64562987881d17483e401"]+ ' layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable'}   >
 <img id="imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094" className={"baseImageView " + styles["imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094"]}  alt="imageview-3" src='/assets/QuienesSomos.png'  />
 </div>
-<div id="layer-23-95d7f455021a4de1842f5b830b5f9c6e" className={"baseLayer " + styles["layer-23-95d7f455021a4de1842f5b830b5f9c6e"]}   >
+<div id="layer-23-95d7f455021a4de1842f5b830b5f9c6e" className={"baseLayer " + styles["layer-23-95d7f455021a4de1842f5b830b5f9c6e"]+ ' layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable'}   >
 <div id="layer-31-cf9999f2f257423abfd5813d8115a80d" className={"baseLayer " + styles["layer-31-cf9999f2f257423abfd5813d8115a80d"]}   >
 <div id="text-7-f33efae962db4c36b31c153be6d0fef2" className={"baseText " + styles["text-7-f33efae962db4c36b31c153be6d0fef2"]}   >Vai, en donde cada recorrido es una oportunidad, es una aplicación móvil de carpooling para comunidades que permite a sus usuarios movilizarse desde y hacia sus destinos de estudio o trabajo.
 
@@ -70,7 +70,7 @@ Facilitamos la movilidad por medio de una solución tecnológica innovadora, pr�
 <div id="text-14-5aae451b6d624a9893d41a4d81db0162" className={"baseText " + styles["text-14-5aae451b6d624a9893d41a4d81db0162"]}   >Empresas</div>
 </div>
 <div id="layer-19-b35a7f935a4e4bc8b9cfc72f4624a606" className={"baseLayer " + styles["layer-19-b35a7f935a4e4bc8b9cfc72f4624a606"]+ ' layer-19-b35a7f935a4e4bc8b9cfc72f4624a606-orientation'}   >
-<div id="layer-22-cbe4411783ca404693b7d7de72978d33" className={"baseLayer " + styles["layer-22-cbe4411783ca404693b7d7de72978d33"]}   >
+<div id="layer-22-cbe4411783ca404693b7d7de72978d33" className={"baseLayer " + styles["layer-22-cbe4411783ca404693b7d7de72978d33"]+ ' layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable'}   >
 <div id="layer-34-86dc3952f38a4cce9c159741f296804e" className={"baseLayer " + styles["layer-34-86dc3952f38a4cce9c159741f296804e"]}   >
 <div id="text-11-abc650a0e667432a985cc21bc68aac62" className={"baseText " + styles["text-11-abc650a0e667432a985cc21bc68aac62"]}   >Somos lo que tu empresa necesita para gestionar su movilidad de forma cómoda y segura.
 
@@ -85,7 +85,7 @@ Nuestra plataforma te brinda la capacidad de administrar y optimizar la movilida
 </div>
 </div>
 </div>
-<div id="layer-33-2305bee4a4f44755ad163951d7147390" className={"baseLayer " + styles["layer-33-2305bee4a4f44755ad163951d7147390"]}   >
+<div id="layer-33-2305bee4a4f44755ad163951d7147390" className={"baseLayer " + styles["layer-33-2305bee4a4f44755ad163951d7147390"]+ ' layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable'}   >
 <img id="imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6" className={"baseImageView " + styles["imageview-4-2ee6f8525ed54cd4a67c8771fd44a8e6"]}  alt="imageview-4" src='/assets/Empresas.png'  />
 </div>
 </div>

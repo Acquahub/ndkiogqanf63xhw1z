@@ -30,6 +30,7 @@ code {
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
+    overflow-x: hidden;
 }
 
 .baseLayer {
@@ -89,16 +90,10 @@ align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
 .layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
+flex-grow: 1; align-self: stretch; height: unset;
 }
 .layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
+flex-grow: 1; align-self: stretch; height: unset;
 }
 .layer-24-e7e2909ced7b42fba518b70e2f78feeb-orientation{
 align-items: var(--verticalAxis);
@@ -109,16 +104,10 @@ align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
 .layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
+flex-grow: 1; align-self: stretch; height: unset;
 }
 .layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
+flex-grow: 1; align-self: stretch; height: unset;
 }
 @media (max-width: 480px) {:root{
 	--headerVisibility1: flex;
@@ -143,16 +132,10 @@ align-items: var(--horizontalAxis);
 justify-content: var(--verticalAxis);
 }
 .layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
-}
-.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
+flex-grow: 1; align-self: stretch; height: unset;
 }
 .layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
-}
-.layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
+flex-grow: 1; align-self: stretch; height: unset;
 }
 .layer-24-e7e2909ced7b42fba518b70e2f78feeb-orientation{
 align-items: var(--horizontalAxis);
@@ -163,16 +146,10 @@ align-items: var(--horizontalAxis);
 justify-content: var(--verticalAxis);
 }
 .layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
-}
-.layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
+flex-grow: 1; align-self: stretch; height: unset;
 }
 .layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
-}
-.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
+flex-grow: 1; align-self: stretch; height: unset;
 } 
 }
 @media (min-width: 481px) {:root{
@@ -197,16 +174,10 @@ align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
 .layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
+flex-grow: 1; align-self: stretch; height: unset;
 }
 .layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
+flex-grow: 1; align-self: stretch; height: unset;
 }
 .layer-24-e7e2909ced7b42fba518b70e2f78feeb-orientation{
 align-items: var(--verticalAxis);
@@ -217,16 +188,10 @@ align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
 .layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
+flex-grow: 1; align-self: stretch; height: unset;
 }
 .layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
+flex-grow: 1; align-self: stretch; height: unset;
 } 
 }
 @media (max-aspect-ratio: 1/1) and (min-width: 481px) {:root{
@@ -249,16 +214,10 @@ align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
 .layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
+flex-grow: 1; align-self: stretch; height: unset;
 }
 .layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
+flex-grow: 1; align-self: stretch; height: unset;
 }
 .layer-24-e7e2909ced7b42fba518b70e2f78feeb-orientation{
 align-items: var(--verticalAxis);
@@ -269,15 +228,9 @@ align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
 .layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
+flex-grow: 1; align-self: stretch; height: unset;
 }
 .layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
-align-self: stretch; flex-grow: 0;
-}
-.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
+flex-grow: 1; align-self: stretch; height: unset;
 } 
 }

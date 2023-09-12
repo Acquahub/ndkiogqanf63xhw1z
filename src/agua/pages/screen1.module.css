@@ -91,7 +91,7 @@ font-size: var(--fontSize1);
 }
 .layer-15-97b9b0aaead64f4d93dccdef045fdd70{
     
-border-radius: 1.8526819064694509vh;
+border-radius: 2.0140515222482422vh;
 box-shadow: 0px 0px 0px var(--secondaryColor);
 padding-top: 1px;
 padding-bottom: 1px;
@@ -105,7 +105,7 @@ box-shadow: 0px 0px 0px var(--secondaryColor);
 }
 .layer-16-2da04cf4cc334deebfad194b47e70ea1{
     
-border-radius: 1.70327207530256vh;
+border-radius: 1.8969555035128793vh;
 padding-top: 1px;
 padding-bottom: 5px;
 padding-left: 15px;
@@ -269,7 +269,7 @@ align-self: stretch;width: unset;min-width: unset;
 }
 .layer-25-ce4342a5d3024548ab13bf12c46789ad{
     
-border-radius: 1.3297474973853076vh;
+border-radius: 1.6042154566744784vh;
 padding-bottom: 1px;
 padding-left: 15px;
 padding-right: 15px;
@@ -294,7 +294,7 @@ font-size: var(--fontSize1);
 }
 .layer-26-c5c568e18ca74d53a1cba6f69d05af09{
     
-border-radius: 1.3297474973853076vh;
+border-radius: 1.6042154566744784vh;
 padding-bottom: 1px;
 padding-left: 15px;
 padding-right: 15px;
@@ -319,7 +319,7 @@ font-size: var(--fontSize1);
 }
 .layer-27-809dca598825467cbb543d41bc4e0f17{
     
-border-radius: 1.3297474973853076vh;
+border-radius: 1.6042154566744784vh;
 padding-bottom: 1px;
 padding-left: 15px;
 padding-right: 15px;
@@ -327,6 +327,8 @@ box-sizing: border-box;
 height: fit-content;min-height:  unset;
 width: fit-content;min-width:  unset;
     background: var(--primaryColor); 
+margin-right: var(--textMarginH); 
+margin-bottom: var(--textMarginV); 
 }
 .text-10-3ed2a1f4c686455693c7d3b77274cb82{
      
@@ -408,7 +410,7 @@ width: fit-content;min-width:  unset;
 }
 .layer-29-defc2387dceb49a99082e9951c9a9f61{
     
-border-radius: 1.3297474973853416vh;
+border-radius: 1.6042154566744518vh;
 padding-bottom: 1px;
 padding-left: 15px;
 padding-right: 15px;
@@ -432,7 +434,7 @@ font-size: var(--fontSize1);
 }
 .layer-30-446b5bd27c04403b92062252620da012{
     
-border-radius: 1.3297474973853416vh;
+border-radius: 1.6042154566744518vh;
 padding-bottom: 1px;
 padding-left: 15px;
 padding-right: 15px;
@@ -477,7 +479,7 @@ align-items: center;
 padding-left: 5vw;
 padding-right: 5vw;
 box-sizing: border-box;
-height: 90px;min-height: 90px;
+height: 90vh;min-height: 90vh;
 align-self: stretch;width: unset;min-width: unset;
     background: var(--primaryColor); 
 }
