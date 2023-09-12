@@ -209,7 +209,7 @@ font-weight: bold;
 --verticalAxis: center;
 --horizontalAxis: center;
 
-
+flex-grow: 1;height: unset;min-height: unset;
 align-self: stretch;width: unset;min-width: unset;
     flex-direction: var(--bodyOrientation); 
 }
@@ -443,7 +443,7 @@ min-height: var(--bodyImageSize);
 justify-content: space-between;
 align-items: center;
 
-height: 90vh;min-height: 90vh;
+height: 90px;min-height: 90px;
 align-self: stretch;width: unset;min-width: unset;
     background: var(--primaryColor); 
 }
