@@ -42,7 +42,7 @@ function Screen1() {
 <div id="text-15-efd9dc5824504bb9afa47a5de466efd1" className={"baseText " + styles["text-15-efd9dc5824504bb9afa47a5de466efd1"]}   >¿Quiénes somos?</div>
 </div>
 <div id="layer-17-2c1fa109ec71499897792b032a379ef2" className={"baseLayer " + styles["layer-17-2c1fa109ec71499897792b032a379ef2"]+ ' layer-17-2c1fa109ec71499897792b032a379ef2-orientation'}   >
-<div id="layer-32-b797e82466d64562987881d17483e401" className={"baseLayer " + styles["layer-32-b797e82466d64562987881d17483e401"]+ ' layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable'}   >
+<div id="layer-32-b797e82466d64562987881d17483e401" className={"baseLayer " + styles["layer-32-b797e82466d64562987881d17483e401"]+ ' layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable'+ ' layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable'}   >
 <img id="imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094" className={"baseImageView " + styles["imageview-3-5255e8b2bc1c46dbb4889d2a8d7f5094"]}  alt="imageview-3" src='/assets/QuienesSomos.png'  />
 </div>
 <div id="layer-23-95d7f455021a4de1842f5b830b5f9c6e" className={"baseLayer " + styles["layer-23-95d7f455021a4de1842f5b830b5f9c6e"]+ ' layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable'}   >
