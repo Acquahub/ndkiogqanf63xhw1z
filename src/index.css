@@ -1,4 +1,28 @@
  
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url("/assets/Poppins-Bold.ttf");
+    font-display: swap;
+}
+            
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url("/assets/Poppins-Regular.ttf");
+    font-display: swap;
+}
+            
+@font-face {
+    font-family: "Poppins-Medium";
+    src: url("/assets/Poppins-Medium.ttf");
+    font-display: swap;
+}
+            
+@font-face {
+    font-family: "Poppins-Light";
+    src: url("/assets/Poppins-Light.ttf");
+    font-display: swap;
+}
+            
             
 body, html, #root {
     width: 100%;
@@ -30,7 +54,6 @@ code {
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    overflow-x: hidden;
 }
 
 .baseLayer {
@@ -68,181 +91,156 @@ code {
     height: fit-content;
     width: fit-content;
     font-size: 30px;
+}
+
+.hide-native-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
 }:root {
-	--primaryColor: #2CA4FF;
-	--secondaryColor: #FFFFFF;
-	--backgroundColor: #F2F2F2;
-	--headerVisibility1: none;
-	--headerVisibility2: flex;
-	--LogoSize: 15vw;
-	--textMarginH: 3vw;
-	--hPaddingHeader: 5vw;
-	--fontSize2: 28px;
-	--fontSize1: 22px;
-	--bodyOrientation: row;
-	--bodyImageSize: 650px;
-	--textMarginV: 3vh;
+	--PrimaryColor: #2CA4FF;
+	--SecondaryColor: #F2F2F2;
+	--WhiteColor: #FFFFFF;
+	--BlackColor: #000000;
+	--HeaderText1: Carpooling;
+	--HeaderText2: Ventajas;
+	--HeaderText3: Sostenibilidad;
+	--HeaderText4: Ayuda;
+	--HeaderText5: Empresas;
+	--HeaderText6: Contactanos;
+	--HeaderText7: Beneficios;
+	--HeaderText8: Nosotros;
+	--HeaderText9: Nuestra Historia;
+	--HeaderText10: Medios;
+	--HeadertText11: Blog;
+	--Logo: vai-logo.png;
+	--LogoSize: 125px;
+	--HeaderVisibility1: none;
+	--HeaderVisibility2: flex;
+	--Orientation1: row;
+	--Orientation2: column;
+	--FontBold: Poppins-Bold;
+	--FontRegular: Poppins-Regular;
+	--FontMedium: Poppins-Medium;
+	--FontLight: Poppins-Light;
 
 }
 
-.layer-17-2c1fa109ec71499897792b032a379ef2-orientation{
+.layer-48-43ddb3f20d18481caf253580792ae81d-orientation{
 align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
-.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-flex-grow: 1 !important; align-self: unset !important;
+.layer-89-ab2c6d6891034d068539cf11bd058cf8-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 }
-.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-align-self: stretch !important; flex-grow: 0 !important;
+.layer-90-134dd1efd9334f298e11ff90a2bfedbe-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 }
-.layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
-flex-grow: 1; align-self: stretch; height: unset; min-height: unset;
-}
-.layer-24-e7e2909ced7b42fba518b70e2f78feeb-orientation{
+.layer-49-b783016bc000417493bdf7e8d39782d8-orientation{
 align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
-.layer-19-b35a7f935a4e4bc8b9cfc72f4624a606-orientation{
-align-items: var(--verticalAxis);
-justify-content: var(--horizontalAxis);
+.layer-91-6647ff50f4c349a6b2172bde0a777542-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 }
-.layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
-}
-.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
-flex-grow: 1; align-self: stretch; height: unset; min-height: unset;
+.layer-92-16e35a58071c49beb25efa0a9d2393a6-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 }
 @media (max-width: 480px) {:root{
-	--headerVisibility1: flex;
-	--headerVisibility2: none;
-	--hPaddingHeafer: 5vw;
-	--LogoSize: 35vw;
-	--fontsize1: 22px;
-	--textMarginH: 5vw;
-	--bodyOrientation: column;
-	--bodyImageSize: 250px;
-	--fontSize1: 14px;
-	--primaryColor: #2CA4FF;
-	--secondaryColor: #FFFFFF;
-	--backgroundColor: #F2F2F2;
-	--hPaddingHeader: 5vw;
-	--fontSize2: 16px;
-	--textMarginV: 3vh;
+	--HeaderVisibility1: flex;
+	--HeaderVisibility2: none;
+	--Orientation1: column;
+	--PrimaryColor: #2CA4FF;
+	--SecondaryColor: #F2F2F2;
+	--WhiteColor: #FFFFFF;
+	--BlackColor: #000000;
+	--LogoSize: 125px;
+	--Orientation2: row;
 
 } 
-.layer-17-2c1fa109ec71499897792b032a379ef2-orientation{
+.layer-48-43ddb3f20d18481caf253580792ae81d-orientation{
 align-items: var(--horizontalAxis);
 justify-content: var(--verticalAxis);
 }
-.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-align-self: stretch !important; flex-grow: 0 !important;
+.layer-89-ab2c6d6891034d068539cf11bd058cf8-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 }
-.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-flex-grow: 1 !important; align-self: unset !important;
+.layer-90-134dd1efd9334f298e11ff90a2bfedbe-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 }
-.layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
-flex-grow: 1; align-self: stretch; height: unset; min-height: unset;
-}
-.layer-24-e7e2909ced7b42fba518b70e2f78feeb-orientation{
+.layer-49-b783016bc000417493bdf7e8d39782d8-orientation{
 align-items: var(--horizontalAxis);
 justify-content: var(--verticalAxis);
 }
-.layer-19-b35a7f935a4e4bc8b9cfc72f4624a606-orientation{
-align-items: var(--horizontalAxis);
-justify-content: var(--verticalAxis);
+.layer-91-6647ff50f4c349a6b2172bde0a777542-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 }
-.layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-align-self: stretch; flex-grow: 0; width: unset; min-width: unset;
-}
-.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
-flex-grow: 1; align-self: stretch; height: unset; min-height: unset;
+.layer-92-16e35a58071c49beb25efa0a9d2393a6-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 } 
 }
 @media (min-width: 481px) {:root{
-	--primaryColor: #2CA4FF;
-	--secondaryColor: #FFFFFF;
-	--backgroundColor: #F2F2F2;
-	--headerVisibility1: none;
-	--headerVisibility2: flex;
-	--hPaddingHeafer: 5vw;
-	--LogoSize: 15vw;
-	--hPaddingHeader: 5vw;
-	--fontsize1: 22px;
-	--textMarginH: 3vw;
-	--fontSize1: 22px;
-	--fontSize2: 28px;
-	--bodyOrientation: row;
-	--bodyImageSize: 650px;
+	--PrimaryColor: #2CA4FF;
+	--SecondaryColor: #F2F2F2;
+	--WhiteColor: #FFFFFF;
+	--BlackColor: #000000;
+	--LogoSize: 125px;
+	--HeaderVisibility1: none;
+	--HeaderVisibility2: flex;
+	--Orientation1: row;
+	--Orientation2: column;
 
 } 
-.layer-17-2c1fa109ec71499897792b032a379ef2-orientation{
+.layer-48-43ddb3f20d18481caf253580792ae81d-orientation{
 align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
-.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-flex-grow: 1 !important; align-self: unset !important;
+.layer-89-ab2c6d6891034d068539cf11bd058cf8-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 }
-.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-align-self: stretch !important; flex-grow: 0 !important;
+.layer-90-134dd1efd9334f298e11ff90a2bfedbe-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 }
-.layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
-flex-grow: 1; align-self: stretch; height: unset; min-height: unset;
-}
-.layer-24-e7e2909ced7b42fba518b70e2f78feeb-orientation{
+.layer-49-b783016bc000417493bdf7e8d39782d8-orientation{
 align-items: var(--verticalAxis);
 justify-content: var(--horizontalAxis);
 }
-.layer-19-b35a7f935a4e4bc8b9cfc72f4624a606-orientation{
-align-items: var(--verticalAxis);
-justify-content: var(--horizontalAxis);
+.layer-91-6647ff50f4c349a6b2172bde0a777542-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 }
-.layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
-}
-.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
-flex-grow: 1; align-self: stretch; height: unset; min-height: unset;
+.layer-92-16e35a58071c49beb25efa0a9d2393a6-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 } 
 }
 @media (max-aspect-ratio: 1/1) and (min-width: 481px) {:root{
-	--headerVisibility1: none;
-	--headerVisibility2: flex;
-	--bodyOrientation: row;
-	--primaryColor: #2CA4FF;
-	--secondaryColor: #FFFFFF;
-	--backgroundColor: #F2F2F2;
-	--hPaddingHeader: 5vw;
-	--LogoSize: 15vw;
-	--fontSize1: 22px;
-	--textMarginH: 3vw;
-	--fontSize2: 28px;
-	--bodyImageSize: 500px;
+	--HeaderVisibility1: flex;
+	--HeaderVisibility2: none;
+	--Orientation1: column;
+	--PrimaryColor: #2CA4FF;
+	--SecondaryColor: #F2F2F2;
+	--WhiteColor: #FFFFFF;
+	--BlackColor: #000000;
+	--LogoSize: 125px;
+	--Orientation2: row;
 
 } 
-.layer-17-2c1fa109ec71499897792b032a379ef2-orientation{
-align-items: var(--verticalAxis);
-justify-content: var(--horizontalAxis);
+.layer-48-43ddb3f20d18481caf253580792ae81d-orientation{
+align-items: var(--horizontalAxis);
+justify-content: var(--verticalAxis);
 }
-.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-flex-grow: 1 !important; align-self: unset !important;
+.layer-89-ab2c6d6891034d068539cf11bd058cf8-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 }
-.layer-32-b797e82466d64562987881d17483e401-parentOrientationVariable{
-align-self: stretch !important; flex-grow: 0 !important;
+.layer-90-134dd1efd9334f298e11ff90a2bfedbe-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 }
-.layer-23-95d7f455021a4de1842f5b830b5f9c6e-parentOrientationVariable{
-flex-grow: 1; align-self: stretch; height: unset; min-height: unset;
+.layer-49-b783016bc000417493bdf7e8d39782d8-orientation{
+align-items: var(--horizontalAxis);
+justify-content: var(--verticalAxis);
 }
-.layer-24-e7e2909ced7b42fba518b70e2f78feeb-orientation{
-align-items: var(--verticalAxis);
-justify-content: var(--horizontalAxis);
+.layer-91-6647ff50f4c349a6b2172bde0a777542-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 }
-.layer-19-b35a7f935a4e4bc8b9cfc72f4624a606-orientation{
-align-items: var(--verticalAxis);
-justify-content: var(--horizontalAxis);
-}
-.layer-22-cbe4411783ca404693b7d7de72978d33-parentOrientationVariable{
-flex-grow: 1; align-self: unset;
-}
-.layer-33-2305bee4a4f44755ad163951d7147390-parentOrientationVariable{
-flex-grow: 1; align-self: stretch; height: unset; min-height: unset;
+.layer-92-16e35a58071c49beb25efa0a9d2393a6-parentOrientationVariable{
+flex: 1 1 50%;; align-self: stretch; height: unset; min-height: unset; width: unset; min-width: unset;
 } 
 }
